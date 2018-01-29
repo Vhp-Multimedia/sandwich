@@ -3,3 +3,5 @@ salade
 fromage
 tomate
 cornichon
+Onions
+Laitue
